@@ -1,6 +1,6 @@
 # Tokens
 
-This repo contains Solidity smart contract code to issue simple, standards-compliant tokens on Ethereum and can be used to create any form of asset, currency, coin or usage tokens.
+This repo contains Solidity smart contract code to issue simple, standards-compliant tokens on Ethereum and can be used to create any form of asset, currency, coin or usage token.
 
 The default is StandardToken.sol which ONLY implements the core ERC20 standard functionality (https://github.com/ethereum/EIPs/issues/20).  
 HumanStandardToken.sol is an example of a token that has optional extras to create your own tokens, it includes:  
